@@ -1,4 +1,4 @@
-# 🕹️ Lovable - Jogo de Dama Mestre
+# 🕹️ Jogo de Dama Mestre
 
 Este é um projeto com o objetivo de demonstrar boas práticas de desenvolvimento front-end moderno, utilizando ferramentas eficientes e uma estrutura modular.
 
