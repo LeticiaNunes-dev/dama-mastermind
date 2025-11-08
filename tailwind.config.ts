@@ -57,6 +57,22 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        board: {
+          light: "hsl(var(--board-light))",
+          dark: "hsl(var(--board-dark))",
+          border: "hsl(var(--board-border))",
+        },
+        piece: {
+          white: "hsl(var(--piece-white))",
+          "white-border": "hsl(var(--piece-white-border))",
+          black: "hsl(var(--piece-black))",
+          "black-border": "hsl(var(--piece-black-border))",
+        },
+        highlight: {
+          valid: "hsl(var(--highlight-valid))",
+          selected: "hsl(var(--highlight-selected))",
+          capture: "hsl(var(--highlight-capture))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
